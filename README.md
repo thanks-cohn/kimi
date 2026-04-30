@@ -105,6 +105,7 @@ You can ask Kimi to watch certain paths.
 Track:
 
   kimi track ~/Documents/scripts/Pulse
+  
   kimi track ~/Documents/scripts/gravity
 
 List tracked:
@@ -237,4 +238,4 @@ Kimi is built to be:
 
 You don’t need a dashboard to know you’ve been working.
 
-But a few lines don't hurt. 
+But a few lines never hurt. 
