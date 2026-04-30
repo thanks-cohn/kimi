@@ -41,9 +41,19 @@ It pairs naturally with:
 
 Build:
 
-  dotnet publish -c Release -r linux-x64 \
-    --self-contained true /p:PublishSingleFile=true
+Build:
 
+  dotnet publish -c Release -r linux-x64 \ --self-contained true /p:PublishSingleFile=true
+
+Install:
+
+  mkdir -p ~/.local/bin
+  cp bin/Release/net*/linux-x64/publish/Kimi ~/.local/bin/kimi
+  chmod +x ~/.local/bin/kimi
+
+Now you can run:
+
+  kimi
 Install:
 
   mkdir -p ~/.local/bin
