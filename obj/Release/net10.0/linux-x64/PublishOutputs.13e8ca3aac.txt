@@ -1,0 +1,2 @@
+/home/big-bro/Documents/scripts/Kimi/bin/Release/net10.0/linux-x64/publish/Kimi.pdb
+/home/big-bro/Documents/scripts/Kimi/bin/Release/net10.0/linux-x64/publish/Kimi

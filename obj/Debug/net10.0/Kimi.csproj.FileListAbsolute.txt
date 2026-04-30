@@ -1,0 +1,14 @@
+/home/big-bro/Documents/scripts/Kimi/bin/Debug/net10.0/Kimi
+/home/big-bro/Documents/scripts/Kimi/bin/Debug/net10.0/Kimi.deps.json
+/home/big-bro/Documents/scripts/Kimi/bin/Debug/net10.0/Kimi.runtimeconfig.json
+/home/big-bro/Documents/scripts/Kimi/bin/Debug/net10.0/Kimi.dll
+/home/big-bro/Documents/scripts/Kimi/bin/Debug/net10.0/Kimi.pdb
+/home/big-bro/Documents/scripts/Kimi/obj/Debug/net10.0/Kimi.GeneratedMSBuildEditorConfig.editorconfig
+/home/big-bro/Documents/scripts/Kimi/obj/Debug/net10.0/Kimi.AssemblyInfoInputs.cache
+/home/big-bro/Documents/scripts/Kimi/obj/Debug/net10.0/Kimi.AssemblyInfo.cs
+/home/big-bro/Documents/scripts/Kimi/obj/Debug/net10.0/Kimi.csproj.CoreCompileInputs.cache
+/home/big-bro/Documents/scripts/Kimi/obj/Debug/net10.0/Kimi.dll
+/home/big-bro/Documents/scripts/Kimi/obj/Debug/net10.0/refint/Kimi.dll
+/home/big-bro/Documents/scripts/Kimi/obj/Debug/net10.0/Kimi.pdb
+/home/big-bro/Documents/scripts/Kimi/obj/Debug/net10.0/Kimi.genruntimeconfig.cache
+/home/big-bro/Documents/scripts/Kimi/obj/Debug/net10.0/ref/Kimi.dll

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "1opV7N7tSBQ=",
+  "success": true,
+  "projectFilePath": "/home/big-bro/Documents/scripts/Kimi/Kimi.csproj",
+  "expectedPackageFiles": [
+    "/home/big-bro/.nuget/packages/microsoft.net.illink.tasks/10.0.4/microsoft.net.illink.tasks.10.0.4.nupkg.sha512",
+    "/home/big-bro/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/10.0.4/microsoft.netcore.app.runtime.linux-x64.10.0.4.nupkg.sha512",
+    "/home/big-bro/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.4/microsoft.aspnetcore.app.ref.10.0.4.nupkg.sha512",
+    "/home/big-bro/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/10.0.4/microsoft.aspnetcore.app.runtime.linux-x64.10.0.4.nupkg.sha512",
+    "/home/big-bro/.nuget/packages/microsoft.netcore.app.host.linux-x64/10.0.4/microsoft.netcore.app.host.linux-x64.10.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
