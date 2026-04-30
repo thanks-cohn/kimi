@@ -185,7 +185,9 @@ Storage locations:
 ------------------------------------------------------------
 
   ~/.config/kimi/config.json
+
   ~/.local/share/kimi/snapshots.jsonl
+  
   ~/.local/share/kimi/state.json
 
 Everything stays on your machine.
@@ -197,8 +199,11 @@ Everything stays on your machine.
 Kimi is built to be:
 
   fast      — streams files, scans in parallel
+  
   simple    — no heavy parsing, no unnecessary state
+  
   local     — your data never leaves your system
+  
   honest    — it reports what exists, 
 
 
