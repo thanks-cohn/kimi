@@ -1,7 +1,9 @@
+```
 ============================================================
  KIMI
  Code Lines · Code Mass · Growth Tracker
 ============================================================
+```
 
 Kimi is a small tool that answers a simple question:
 
